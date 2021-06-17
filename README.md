@@ -1,2 +1,2 @@
 # data-algorithms-js
-Estrutura de dados e algoritmos com JavaScript 
+This repository will be use to training algorithms in JavaScript 
