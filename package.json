@@ -1,0 +1,25 @@
+{
+  "name": "data-algorithms",
+  "version": "1.0.0",
+  "description": "This repository will be use to training algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile":"tsc",
+    "start": "tsc --w"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnobrelima/data-algorithms-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnobrelima/data-algorithms-js/issues"
+  },
+  "homepage": "https://github.com/rnobrelima/data-algorithms-js#readme",
+  "dependencies": {
+    "typescript": "^4.3.4"
+  }
+}
